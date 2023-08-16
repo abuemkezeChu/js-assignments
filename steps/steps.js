@@ -10,3 +10,5 @@ for(rows = 0; rows < numberOfSteps; rows++){
   console.log(steps);
 }
 }
+
+stepPattern()
